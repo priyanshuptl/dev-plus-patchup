@@ -1,0 +1,39 @@
+****************************** DevPlus Patchup ******************************
+
+*Pre-requisites:
+
+-JRE 7 or higher version of JRE
+-Test case/scenerio file should be in "Microsoft Excel 97-2003 Worksheet (.xls)" format.
+
+
+*Steps to run DevPlus Patchup:
+
+1) Download DevPlus Patchup compressed zip file.
+
+2) Extract downloaded zip file.
+
+3) Open the .exe file present in the extracted folder.
+
+4) Select input file(your sample test case/test scenerio file).
+
+5) Select sheet number of your test document in which you have test cases or test scenerios.
+	For example, if you want to convert your test cases to Devplus template than write the sheet no. in which your test cases are present.
+Note- Sheet no. starts from "0". One sheet at a time can be processed.
+
+6) Choose test case or test scenerio that you are going to convert.
+
+7) Give your team name in the "Team name" text field.
+
+8) Give "Run Mode" either it is Manual or Automated script.
+
+9) Select output file(This will be your template for DevPlus).
+Note- Don't use a file which is already present and contains some data because it will merge both the files in a single file.
+
+10) Click on "Convert to DevPlus Template" Button.
+
+11) If your excel file is converted to Devplus template succesfully than a Dialog will appear stating that file has been converted successfully. Or you will get an error message if there is some error.
+
+12) If your file is created successfully than you can find your file on the given location.
+
+All set! now you just need to upload this converted file to DevPlus tool.
+
